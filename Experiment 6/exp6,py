@@ -3,7 +3,6 @@ c2= [1,-1,1, -1]
 c3=[1,1,-1,-1]
 (4-[1,-1,-1,1] rc=[]
 print("Enter the data bits :")
-<>
 d1=int(input("Enter D1 :"))
 d2=int(input("Enter D2 :"))
 d3=int(input("Enter D3 :"))
